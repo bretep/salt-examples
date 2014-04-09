@@ -1,3 +1,6 @@
 [submodule "salt-multi-environment-gitfs"]
 	path = salt-multi-environment-gitfs
 	url = https://github.com/bretep/salt-multi-environment-gitfs.git
+[submodule "salt-cloud"]
+	path = salt-cloud
+	url = https://github.com/bretep/salt-cloud-examples.git
